@@ -7,8 +7,8 @@ sites:
     url: https://www.google.com
   - name: UTiMS
     url: https://utims.urp-ai.co.kr
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Naver
+    url: https://naver.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
